@@ -3,3 +3,8 @@ hello git welcome to linux
 
 [A[A
 [A:wq
+updating the text
+updating
+updating
+updating
+updating
